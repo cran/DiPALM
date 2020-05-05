@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+import(limma)
+import(WGCNA)
+import(ggplot2)
+importFrom(grDevices, adjustcolor)
+importFrom(graphics, axis, legend, lines, par, plot, polygon)
+importFrom(stats, density, sd, cutree)
