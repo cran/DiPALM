@@ -1,13 +1,13 @@
 
 citEntry(
   entry = "article",
-  title = "Expansion of the circadian transcriptome in Brassica rapa and genome-wide diversification of paralog expression patterns",
+  title = "Expansion of the circadian transcriptome in \\textit{Brassica rapa} and genome-wide diversification of paralog expression patterns",
   author = "Kathleen Greenham, Ryan C Sartor, Stevan Zorich, Ping Lou, Todd C Mockler and C. Robertson McClung",
-  journal = "bioRxiv",
-  volume = "April",
-  number = "",
+  journal = "eLife",
+  volume = "9",
+  number = "4",
   pages = "",
   year = 2020,
-  doi = "10.1101/2020.04.03.024281",
-  textVersion = "Greenham K, Sartor RC, Zorich S, Lou P, Mockler TC, McClung CR. Expansion of the circadian transcriptome in Brassica rapa and genome-wide diversification of paralog expression patterns. bioRxiv. 2020 April 5. doi: https://doi.org/10.1101/2020.04.03.024281"
+  doi = "10.7554/eLife.58993",
+  textVersion = "Greenham K, Sartor RC, Zorich S, Lou P, Mockler TC, McClung CR. Expansion of the circadian transcriptome in Brassica rapa and genome-wide diversification of paralog expression patterns. eLife. 2020 Sep 30;9(4). doi: https://doi.org/10.7554/eLife.58993"
 )

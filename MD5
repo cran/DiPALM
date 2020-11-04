@@ -1,4 +1,4 @@
-3a06e6a533af0629941754ba2f83b028 *DESCRIPTION
+528d50db74c9dd493c468388835f8e5a *DESCRIPTION
 662658410d374964cc282b40c2da640a *NAMESPACE
 7ce44bc2992683384d45fb2ddcc0ad89 *R/AdjustPvalue.R
 506d3c6690c62e9a384c119a8448adbd *R/BlankPlot.R
@@ -8,9 +8,9 @@ ebebeecf3ff4654d15727731ec5b7b50 *R/PlotTCs.R
 56d43d4fcefea838c2bfa3bc5cf15b88 *R/PlotTCsRibbon.R
 621cbc4c000993ca7965da3b9cebc594 *R/ggPlotMultiDensities.R
 6e66347440ce74d697feb5fb8f983622 *data/datalist
-d0beb53cdb3a5c2c2654a90b04875678 *data/exampleData.rda
-6bc51b3ad21fa2bd7bb907a30f2e7383 *data/testData.rda
-553466ea00ca8a39e5934ba0cc2d61d0 *inst/CITATION
+23e769490a39ee8a6d59146b0e0105f5 *data/exampleData.rda
+12d571e3707820930e8764aa1be6a0dd *data/testData.rda
+30771bc81a30f80580bc47d627bd1f32 *inst/CITATION
 bcec88cd70aac58fe03e8b4cb4f5cca5 *inst/doc/DiPALM.html
 a57e2717632b83e342b1a236428e365d *inst/doc/index.html
 7427e36ae6f3b3af333a149d96126e37 *man/AdjustPvalue.Rd
