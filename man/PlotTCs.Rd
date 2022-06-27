@@ -2,11 +2,9 @@
 \alias{PlotTCs}
 
 \title{
-Plot multiple time-course expression patterns for one gene
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+Plot multiple time-course expression patterns for one gene
 }
 \description{
 A plotting function that generates a line plot for a single gene in multiple time-course expression sets. Each time-course is overlaid on the same plot.

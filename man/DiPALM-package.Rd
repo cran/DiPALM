@@ -4,11 +4,9 @@
 \docType{package}
 
 \title{
-  DiPALM - Differential Pattern Analysis via Linear Modeling
-  \subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+  DiPALM - Differential Pattern Analysis via Linear Modeling
 }
 \description{
 Individual gene expression patterns are encoded into a series of eigenvector patterns (WGCNA package). Using the framework of linear model-based differential expression comparisons (limma package), time-course expression patterns for genes in different conditions are compared and analyzed for significant pattern changes.

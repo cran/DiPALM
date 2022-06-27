@@ -2,11 +2,9 @@
 \alias{BuildModMembership}
 
 \title{
-Calculate module membership (kME) for all genes in a time-course data set
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+Calculate module membership (kME) for all genes in a time-course data set
 }
 \description{
 This function calculates module membership (kME) between each gene's expression vector throughout a time-course and the module eigengenes of the data set (from the WGCNA package, using \code{\link[WGCNA:blockwiseModules]{blockwiseModules}}). Module membership is defined as the Pearson correlation between the expression of a single gene and the expression of a single eigengene. 

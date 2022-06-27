@@ -2,11 +2,9 @@
 \alias{AdjustPvalue}
 
 \title{
+\if{html}{\figure{DiPalm.png}{}}
+\if{latex}{}
 Determine p-values based on permutation test results
-\subsection{}{
-    \if{html}{\figure{DiPalm.png}{}}
-    \if{latex}{}
-  }
 }
 \description{
 Used to calculate the false discovery rate associated with a specified cutoff. It uses a vector of actual test scores and a vector of permuted scores. The result can be considered a corrected p-value or q-value.

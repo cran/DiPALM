@@ -2,11 +2,9 @@
 \alias{testData}
 \docType{data}
 \title{
-Test Data: Data for function testing
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+Test Data: Data for function testing
 }
 \description{
 A list of objects that can be used to test individual DiPALM functions.

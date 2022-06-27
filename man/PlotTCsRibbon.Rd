@@ -2,11 +2,9 @@
 \alias{PlotTCsRibbon}
 
 \title{
-Plot multiple averaged time-course expression patterns for a group of genes
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+Plot multiple averaged time-course expression patterns for a group of genes
 }
 \description{
 A plotting function that generates a ribbon plot representing the summarized expression of a set of genes. A separate ribbon is generated for each time-course. The ribbon represents + & - 1 standard deviation from the mean at each point.

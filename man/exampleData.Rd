@@ -2,11 +2,9 @@
 \alias{exampleData}
 \docType{data}
 \title{
-Example Data: Data for use with the DiPALM vignette
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+Example Data: Data for use with the DiPALM vignette
 }
 \description{
 A list of data objects that are used to run through the DiPALM example vignette.

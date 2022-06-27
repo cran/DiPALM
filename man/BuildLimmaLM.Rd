@@ -2,11 +2,9 @@
 \alias{BuildLimmaLM}
 
 \title{
-Fit linear models to time-course expression patterns using the limma package
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+Fit linear models to time-course expression patterns using the limma package
 }
 \description{
 This function fits a linear model (using \code{\link[limma]{lmFit}} form the limma package) to each set of kME values returned from \code{\link{BuildModMembership}}.

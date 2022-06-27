@@ -2,11 +2,9 @@
 \alias{BlankPlot}
 
 \title{
+\if{html}{\figure{DiPalm.png}{}}
+\if{latex}{}
 Generate a blank plot window
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
-    \if{latex}{}
-  }
 }
 \description{
 Creates a blank plotting window of desired size.

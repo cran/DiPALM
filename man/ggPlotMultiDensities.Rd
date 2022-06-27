@@ -2,11 +2,9 @@
 \alias{ggPlotMultiDensities}
 
 \title{
-Plot multiple density distributions
-\subsection{}{
-     \if{html}{\figure{DiPalm.png}{}}
+    \if{html}{\figure{DiPalm.png}{}}
     \if{latex}{}
-  }
+Plot multiple density distributions
 }
 \description{
 This function generates one or more smoothed density distributions using \code{\link[ggplot2]{ggplot2}} functionality
