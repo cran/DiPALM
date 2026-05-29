@@ -1,6 +1,6 @@
 
-citEntry(
-  entry = "article",
+bibentry(
+  "article",
   title = "Expansion of the circadian transcriptome in \\textit{Brassica rapa} and genome-wide diversification of paralog expression patterns",
   author = "Kathleen Greenham, Ryan C Sartor, Stevan Zorich, Ping Lou, Todd C Mockler and C. Robertson McClung",
   journal = "eLife",
